@@ -1,2 +1,3 @@
-<h1 style="text-align: center;">Centered text</h1>
-
+<div style="text-align: center;">
+# Title
+</div>
