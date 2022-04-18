@@ -21,7 +21,7 @@ This script will run for intinity until canceled by the user.
 
 2. Create your own private discord server for mining.
 
-3. Add the dank memer bot to your server: ![dank memer](https://dankmemer.lol/)
+3. Add the dank memer bot to your server: [dank memer](https://dankmemer.lol/)
 
 4. Download the script.
 
